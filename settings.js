@@ -11,7 +11,7 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "2348102487241"
-global.ownername = "Taira Makino"
+global.ownername = "ednut infinity"
 global.ytname = "YT: Ednut001"
 global.socialm = "GitHub: Ednut001"
 global.location = "India, Mizoram, Aizawl"
@@ -29,7 +29,7 @@ global.themeemoji = '🪀'
 global.wm = "Ednut Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaY0Zq32P59piTo5rg0K'
+global.link = ''
 
 //custom prefix
 global.sessID = process.env.sessID || ""
