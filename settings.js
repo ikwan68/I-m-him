@@ -33,7 +33,7 @@ global.link = ''
 
 //custom prefix
 global.sessID = process.env.sessID || ""
-global.prefa = ['/']
+global.prefa = ['.']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
@@ -49,7 +49,7 @@ global.autoswview = false //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v1'
+global.typemenu = 'v2'
 
 //text bug
 global.xbugtex = {
