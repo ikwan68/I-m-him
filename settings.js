@@ -10,19 +10,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348102487241"
+global.ownernomer = "2347041232443"
 global.ownername = "ednut infinity"
 global.ytname = "YT: Ednut001"
 global.socialm = "GitHub: Ednut001"
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = "2348102487241"  //creator number
+global.ownernumber = "2347041232443"  //creator number
 global.ownername = 'Ednut property' //owner name
 global.botname = 'Xbug' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'ednut\n\nContact: +2348102487241'
+global.author = 'ednut\n\nContact: +2347041232443'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -49,7 +49,7 @@ global.autoswview = false //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v2'
+global.typemenu = 'v3'
 
 //text bug
 global.xbugtex = {
